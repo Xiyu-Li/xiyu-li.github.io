@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Xiyu Li"
+  site-url: "https://xiyuli.github.io"
+  description: "PhD student in economics at Georgetown University. Economic theory and political economy."
+  favicon: ""
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    left: "Xiyu Li · Department of Economics, Georgetown University"
+    right: "Last updated {{< meta date >}}"
+
+format:
+  html:
+    theme: [default, styles.scss]
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+    email-obfuscation: references

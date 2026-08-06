@@ -1,0 +1,31 @@
+---
+title: "Research"
+---
+
+## Work in progress
+
+::: {.paper}
+::: {.paper-status}
+Draft available upon request
+:::
+### The Structure of Bayesian Stable Matchings with Transfers
+
+Classical matching theory gives stable outcomes a sharp structure: an identical set of unmatched agents across stable outcomes (the Lone Wolf theorem) and a lattice of stable payoffs. Hu (2026) shows that under incomplete information without transfers, the Lone Wolf property survives whenever stable outcomes share a common information structure. I show that this is not generally true under incomplete information with transfers, and give a sufficient condition under which the Lone Wolf theorem holds generically.
+
+::: {.paper-meta}
+Matching · Incomplete information · Transferable utility
+:::
+:::
+
+::: {.paper}
+::: {.paper-status}
+In progress
+:::
+### Deliberation by Ballot: Communication and Consensus in Elections by Repeated Ballots
+
+Some of the oldest consensus institutions — conclaves, juries, conventions — do not separate deliberation from voting: members communicate by voting, casting repeated ballots until a supermajority forms. I model committees in which each ballot is semi-binding communication about private information and private biases.
+
+::: {.paper-meta}
+Cheap talk · Committees · Political economy
+:::
+:::

@@ -1,0 +1,150 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+$ink:        #16202b;
+$ink-muted:  #5b6672;
+$paper:      #fdfdfc;
+$rule:       #dcdfe3;
+$accent:     #2f5d7c;
+$accent-dim: #eaf0f4;
+
+$font-family-sans-serif: "Source Sans 3", system-ui, sans-serif;
+$body-color: $ink;
+$body-bg: $paper;
+$link-color: $accent;
+$font-size-root: 17px;
+
+$navbar-bg: $paper;
+$navbar-fg: $ink;
+$footer-bg: $paper;
+
+/*-- scss:rules --*/
+
+body {
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+.page-columns { max-width: 46rem; }
+
+h1.title {
+  font-family: "Spectral", Georgia, serif;
+  font-weight: 600;
+  font-size: 2.4rem;
+  letter-spacing: -0.015em;
+  margin-bottom: 0.15rem;
+}
+
+.subtitle {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: $ink-muted;
+  border-bottom: 1px solid $rule;
+  padding-bottom: 1.1rem;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.74rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.11em;
+  color: $ink-muted;
+  margin-top: 3rem;
+  margin-bottom: 1.2rem;
+}
+
+h3 {
+  font-family: "Spectral", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.22rem;
+  line-height: 1.35;
+  margin: 0 0 0.7rem 0;
+}
+
+.lede {
+  font-family: "Spectral", Georgia, serif;
+  font-size: 1.16rem;
+  line-height: 1.6;
+  color: $ink;
+  margin-bottom: 0.5rem;
+}
+
+/* Signature element: each paper hangs off a hairline with a mono status flag */
+.paper {
+  border-left: 1px solid $rule;
+  padding: 0.1rem 0 0.1rem 1.6rem;
+  margin-bottom: 2.8rem;
+  transition: border-color 0.25s ease;
+}
+
+.paper:hover { border-left-color: $accent; }
+
+.paper-status {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $accent;
+  background: $accent-dim;
+  display: inline-block;
+  padding: 0.18rem 0.5rem;
+  border-radius: 2px;
+  margin-bottom: 0.7rem;
+}
+
+.paper p { color: $ink-muted; font-size: 0.97rem; }
+
+.paper-meta {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  color: lighten($ink-muted, 12%);
+  letter-spacing: 0.03em;
+  margin-top: 0.8rem;
+}
+
+.links { font-size: 0.92rem; margin-top: 1.4rem; }
+
+.cv-button {
+  display: inline-block;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  border: 1px solid $accent;
+  padding: 0.5rem 1rem;
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+.cv-button:hover { background: $accent-dim; }
+
+.navbar-brand { font-family: "Spectral", Georgia, serif; font-weight: 600; }
+
+.navbar .nav-link {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.76rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+}
+
+.nav-footer {
+  border-top: 1px solid $rule;
+  font-size: 0.78rem;
+  color: $ink-muted;
+}
+
+a:focus-visible { outline: 2px solid $accent; outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+
+@media (max-width: 600px) {
+  h1.title { font-size: 1.9rem; }
+  .paper { padding-left: 1rem; }
+}

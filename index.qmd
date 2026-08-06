@@ -1,0 +1,30 @@
+---
+title: "Xiyu Li"
+subtitle: "PhD Student in Economics · Georgetown University"
+date: last-modified
+date-format: "MMMM YYYY"
+---
+
+::: {.lede}
+I am a PhD student in the Department of Economics at Georgetown University. My research is in economic theory, with a focus on matching under incomplete information, information design, and political economy.
+:::
+
+## Research interests
+
+**Primary.** Matching theory, mechanism design, information design.
+
+**Secondary.** Social choice, political economy, decision theory.
+
+Most of my current work asks what happens to the structural results of classical matching theory — the Lone Wolf theorem, lattice structure of stable outcomes — once agents hold private information and transfers are available. A second line studies committees that communicate by voting rather than deliberating separately.
+
+## Contact
+
+[xl674@georgetown.edu](mailto:xl674@georgetown.edu)
+
+Department of Economics\
+Georgetown University\
+Washington, DC
+
+::: {.links}
+[Google Scholar](#) · [RePEc/IDEAS](#) · [SSRN](#)
+:::

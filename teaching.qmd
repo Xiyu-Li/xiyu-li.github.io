@@ -1,0 +1,15 @@
+---
+title: "Teaching"
+---
+
+## Georgetown University
+
+*Teaching assistant appointments will be listed here.*
+
+<!--
+Suggested format:
+
+### Intermediate Microeconomics (ECON 2101)
+Teaching Assistant, Fall 2026 · Instructor: [Name]
+[Section materials](#) · Evaluations available on request
+-->

@@ -1,0 +1,12 @@
+---
+title: "CV"
+---
+
+[Download CV (PDF)](files/cv.pdf){.cv-button}
+
+*Last updated: [month, year]*
+
+<!--
+Place your CV at files/cv.pdf in this repository.
+Keeping a dated PDF here means the URL never changes when you update it.
+-->

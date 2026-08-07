@@ -30,16 +30,20 @@ Cheap talk · Learning · Political economy
 :::
 :::
 
-::: {.paper} 
-[Proposal Slides](files/Presentation.pdf)
+::: {.paper}
+
 ::: {.paper-status}
 In progress
 :::
+
 ### Implementing Stable Matching under Private Information
 
-This paper aims to implement Bayesian stable matching (Liu, 2020) as a Markov Perfect Bayesian Equilibrium in a Decentralized bargaining process following Elliott and Nava (2019).
+This paper implements Bayesian stable matching (Liu, 2020) as a Markov perfect Bayesian equilibrium in a decentralized bargaining process following Elliott and Nava (2019).
+
+[Proposal slides](files/Presentation.pdf)
 
 ::: {.paper-meta}
-Implementation Theory · Bargaining 
+Implementation theory · Bargaining
 :::
+
 :::

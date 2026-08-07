@@ -30,7 +30,8 @@ Cheap talk · Learning · Political economy
 :::
 :::
 
-::: {.paper} [Proposal Slides](files/Presentation.pdf)
+::: {.paper} 
+[Proposal Slides](files/Presentation.pdf)
 ::: {.paper-status}
 In progress
 :::

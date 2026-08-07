@@ -29,5 +29,6 @@ format:
     anchor-sections: false
     link-external-newwindow: true
     email-obfuscation: references
-    - text: |
+    include-in-header:
+      - text: |
           <meta name="google-site-verification" content="8U79vLpAihBCu5Cz9lNl_vAq-wLtX1ht98f0X-R3jKA" />

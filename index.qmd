@@ -6,16 +6,12 @@ date-format: "MMMM YYYY"
 ---
 
 ::: {.lede}
-I am a PhD student in the Department of Economics at Georgetown University. My research is in economic theory, with a focus on matching under incomplete information, information design, and political economy.
+I am a PhD student in the Department of Economics at Georgetown University. My research is in economic theory, with a focus on matching, search and dynamic games. 
 :::
 
 ## Research interests
 
-**Primary.** Matching theory, mechanism design, information design.
-
-**Secondary.** Social choice, political economy, decision theory.
-
-Most of my current work asks what happens to the structural results of classical matching theory — the Lone Wolf theorem, lattice structure of stable outcomes — once agents hold private information and transfers are available. A second line studies committees that communicate by voting rather than deliberating separately.
+Matching theory, Search theory, Mechanism Design.
 
 ## Contact
 

@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Xiyu Li"
-  site-url: "https://xiyuli.github.io"
+  site-url: "https://xiyu-li.github.io"
   description: "PhD student in economics at Georgetown University. Economic theory and political economy."
   favicon: ""
   navbar:
@@ -29,3 +29,5 @@ format:
     anchor-sections: false
     link-external-newwindow: true
     email-obfuscation: references
+    - text: |
+          <meta name="google-site-verification" content="8U79vLpAihBCu5Cz9lNl_vAq-wLtX1ht98f0X-R3jKA" />

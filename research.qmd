@@ -12,7 +12,7 @@ Draft available upon request
 
 ### The Structure of Bayesian Stable Matchings with Transfers
 
-Classical matching theory gives stable outcomes a distinct structure: an identical set of unmatched agents across stable outcomes (the Lone Wolf theorem) and a lattice of stable payoffs. Hu (2026) shows that under incomplete information without transfers, the Lone Wolf property survives whenever stable outcomes share a common information structure. I show that this is not generally true under incomplete information with transfers, and give a necessary and sufficient condition under which the Lone Wolf theorem holds generically.
+Classical matching theory gives stable outcomes a distinct structure: an identical set of unmatched agents across stable outcomes (the Lone Wolf theorem) and a lattice of stable payoffs. Hu (2026) shows that under incomplete information matching without transfers, the Lone Wolf property survives whenever stable outcomes share a common information structure. I show that this is not generally true under incomplete information matching with transfers, and give a necessary and sufficient condition under which the Lone Wolf theorem holds generically.
 
 ::: {.paper-meta}
 Matching · Incomplete information · Transferable utility

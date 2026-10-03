@@ -53,3 +53,19 @@ Implementation theory · Bargaining
 :::
 
 :::
+
+::: {.paper}
+
+::: {.paper-status}
+In progress
+:::
+
+### Search and Matching with Bilateral Information Acquisition
+
+We study a search-and-matching market in which agents can costly acquire information about a potential partner before deciding whether to match. Higher-type agents are both more selective and acquire more precise information, generating assortative information acquisition. We establish equilibrium existence and show that, despite the endogenous acceptance curse, equilibrium matching exhibits stochastic positive assortative sorting.
+
+::: {.paper-meta}
+Search and Matching · Learning
+:::
+
+:::

@@ -22,8 +22,6 @@ Matching · Incomplete information · Transferable utility
 
 :::
 
-:::
-
 ::: {.paper}
 
 ::: {.paper-status}
@@ -35,7 +33,7 @@ In progress
 We study a search-and-matching market in which agents can costly acquire information about a potential partner before deciding whether to match. Higher-type agents are both more selective and acquire more precise information, generating assortative information acquisition. We establish equilibrium existence and show that, despite the endogenous acceptance curse, equilibrium matching exhibits stochastic positive assortative sorting.
 
 ::: {.paper-meta}
-Search and Matching · Learning · Information Acquisition
+Search and matching · Learning · Information acquisition
 :::
 
 :::
@@ -50,9 +48,10 @@ In progress
 
 We study a decentralized matching market with transfers and privately informed workers, where randomly drawn wage offers are publicly tendered and accepted or rejected, and employers learn the types of workers they hire. When agents are sufficiently impatient relative to small adjustment costs, the game has an essentially unique equilibrium, play converges almost surely in finite time, and every terminal state is Bayesian stable in the sense of Liu (2020) and Chen and Hu (2024).
 
-
 ::: {.paper-meta}
-Mechanism Design · Matching · Incomplete information
+Matching · Incomplete information · Nash program
+:::
+
 :::
 
 ::: {.paper}
@@ -68,6 +67,5 @@ Some of the oldest consensus institutions — conclaves, juries, conventions —
 ::: {.paper-meta}
 Cheap talk · Learning · Political economy
 :::
-
 
 :::

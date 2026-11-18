@@ -46,7 +46,7 @@ In progress
 
 ### A Noncooperative Foundation for Bayesian Stable Matching
 
-We study a decentralized matching market with transfers and privately informed workers, where randomly drawn wage offers are publicly tendered and accepted or rejected, and employers learn the types of workers they hire. When agents are sufficiently impatient relative to small adjustment costs, the game has an essentially unique equilibrium, play converges almost surely in finite time, and every terminal state is Bayesian stable in the sense of Liu (2020) and Chen and Hu (2024).
+We study a decentralized matching market game with transfers and privately informed workers, where randomly drawn wage offers are publicly offered and accepted or rejected, and employers learn the types of workers they hire. When agents are sufficiently impatient with small adjustment costs, the game has an essentially unique equilibrium, play converges almost surely in finite time, and every terminal state is Bayesian stable in the sense of Liu (2020) and Chen and Hu (2024).
 
 ::: {.paper-meta}
 Matching · Incomplete information · Nash program

@@ -100,6 +100,14 @@ h3 {
 
 .paper p { color: $ink-muted; font-size: 0.97rem; }
 
+.paper-status p,
+.paper-meta p {
+  font: inherit;
+  color: inherit;
+  letter-spacing: inherit;
+  margin: 0;
+}
+
 .paper-meta {
   font-family: "IBM Plex Mono", monospace;
   font-size: 0.7rem;

@@ -1,8 +1,6 @@
 ---
 title: "Xiyu Li"
 subtitle: "PhD Student in Economics · Georgetown University"
-date: last-modified
-date-format: "MMMM YYYY"
 ---
 
 ::: {.lede}
